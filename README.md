@@ -23,7 +23,7 @@ yarn add react-native-video-processing
 ```
 - Add the line below to your `Podfile` -> `ios/Podfile` and run pod install:
 
-pod 'GPUImage', git: 'https://github.com/BunHouth/GPUImage.git'
+pod 'GPUImage', git: 'https://github.com/LeoARApp/GPUImage.git'
 ```
 
 **Note: For RN 0.4x use 1.0 version, for RN 0.3x use 0.16**
